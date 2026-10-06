@@ -1,4 +1,4 @@
-# <Daniel Hacobian> 
+# Daniel Hacobian 
 * Role: Student
 * Year at UCSD: 2nd Year Transfer
 
