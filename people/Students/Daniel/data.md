@@ -1,10 +1,10 @@
-Name: Daniel Hacobian
-Year @ UCSD: 2nd year transfer
+<Daniel Hacobian>
+# Year @ UCSD: 2nd year transfer
+# Role: Student
 
-Favorites
+## Favorites
 Topic: Math
 Class: so far CSE 29
-
 Food: In n Out
 Drink: Diet Coke
 Emoji: Crying laughing emoji
